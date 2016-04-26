@@ -11,5 +11,5 @@ react-native (by facebook) | https://github.com/chandu0101/scalajs-react-native
 PouchDB | https://github.com/ochrons/scalajs-facades/blob/master/core/src/main/scala/chandu0101/scalajs/facades/pouchdb/PouchDB.scala
 Paper.js| https://github.com/yoeluk/paper-scala-js
         | https://github.com/benhutchison/scala-js-paper
-Charts.js| https://github.com/SRGOM/scala-js-facades/blob/master/core/faccades/ChartJs.scala
+Charts.js| https://github.com/SRGOM/scala-js-facades/blob/master/facades/ChartJs.scala
 
